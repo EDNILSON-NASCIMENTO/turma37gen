@@ -1,3 +1,4 @@
+package lista1;
 import java.util.Scanner;
 
 public class Oimundo {
@@ -5,7 +6,7 @@ public class Oimundo {
 	//funcao inicio(){
 	public static void main(String[] args) {
 		
-		Scanner leia = new Scanner(System.in);
+		Scanner leia = new Scanner(System.in); //sem isso não ler do teclado
 		
 		String nome; //cadeia
 		int anoNascimento; ///inteiro
