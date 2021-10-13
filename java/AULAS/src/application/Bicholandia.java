@@ -9,6 +9,8 @@ public class Bicholandia {
 	public static void main(String[] args) {
 		
 		
+		String nome = "EDNILSON NASCIMENTO";
+		/*
 		Cachorro dog1 = new Cachorro("Duke",1);
 		Cavalo house1 = new Cavalo("Trovão",4);
 		Preguica preg1 = new Preguica("EdNeide",50);
@@ -21,6 +23,10 @@ public class Bicholandia {
 		house1.emitirSom();
 		System.out.println(preg1.getNome());
 		preg1.correr();
+		*/
+		
+		System.out.println(nome.split(" "));
+		
 		
 		
 	}
