@@ -1,7 +1,7 @@
 package classes;
 
 public class Aluno {
-	
+	//classe aluno
 	private String matricula;
 	private String nome;
 	private int nota;

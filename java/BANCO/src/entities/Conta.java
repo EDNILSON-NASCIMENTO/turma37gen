@@ -2,6 +2,7 @@ package entities;
 
 public abstract class Conta {
 	
+	//modelo classe conta
 	private int numero;
 	private String cpf;
 	private double saldo; 
